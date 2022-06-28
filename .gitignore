@@ -1,10 +1,10 @@
 **/.terraform/*
 
-*.tfstate.*
+**.tfstate.*
 
-*.tfstate
+**.tfstate
 
-*.lock.*
+**.lock.*
 
 
 # Node rules:
